@@ -1,0 +1,10 @@
+/* binary searchtree */
+
+template <class T>
+binary_tree_t {
+
+public:
+
+private:
+
+};
